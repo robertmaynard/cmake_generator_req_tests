@@ -24,11 +24,8 @@ add_subdirectory(f)
 # output name != target name
 add_subdirectory(g)
 
-# # PCH test
-# add_subdirectory(h)
+# PCH test
+add_subdirectory(h)
 
-# # custom command
-# add_subdirectory(i)
-
-# # dep fire walls
-# add_subdirectory(j)
+# custom command
+add_subdirectory(i)
