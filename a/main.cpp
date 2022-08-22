@@ -1,5 +1,5 @@
 
-#if (__PIE__ != 2)
+#if (__PIE__ >= 1)
 # error wrong pie level set
 #endif
 

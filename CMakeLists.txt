@@ -21,8 +21,8 @@ add_subdirectory(e)
 # find_package demo
 add_subdirectory(f)
 
-# # output name != target name
-# add_subdirectory(g)
+# output name != target name
+add_subdirectory(g)
 
 # # PCH test
 # add_subdirectory(h)
